@@ -36,14 +36,6 @@ nav {
     z-index: 1;
 }
 
-.navpt2 {
-    height: 80px;
-    background-color: #373737;
-    position: fixed;
-    width: 100%;
-    z-index: 1;
-}
-
 .logo {
     color: #c0c0c0 ;
     font-weight: 500;
@@ -53,8 +45,6 @@ nav {
     margin-top: 2rem;
     font-family: 'Montserrat', sans-serif;
 }
-
-
 
 nav ul, .first {
     float: left;
